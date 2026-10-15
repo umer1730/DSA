@@ -13,7 +13,6 @@ public:
         id = urgency = weight = zone = 0;
     }
 
-    
     Package(int i, int u, int w, int z) {
         id = i;
         urgency = u;
